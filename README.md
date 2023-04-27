@@ -1,5 +1,7 @@
 # Gruvbox Colour Scheme for MacOS Terminal.app
 
+![gruvbox-terminalapp](https://user-images.githubusercontent.com/55158699/234936343-480fdbaf-4b61-42e3-93b2-8252450e8fd5.png)
+
 A theme based on the [Gruvbox](https://github.com/morhetz/gruvbox) colour scheme for the Apple MacOS Terminal.
 
 ## Installation
