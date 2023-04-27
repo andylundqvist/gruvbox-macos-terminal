@@ -15,3 +15,9 @@ A theme based on the [Gruvbox](https://github.com/morhetz/gruvbox) colour scheme
 ## Credits
 
 Thank you to Pavel Pertsev a.k.a. morhetz for creating the colour scheme.
+ 
+## Links
+
+[Gruvbox](https://github.com/morhetz/gruvbox) by Pavel Pertsev
+
+[Gruvbox for iTerm2](https://github.com/herrbischoff/iterm2-gruvbox) by Marcel Bischoff
